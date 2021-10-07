@@ -1,5 +1,6 @@
 # WebApps-Assignment-5 Starter Code
 
-Hosted at :https://github.com/44-563-WebApps-F21/webapps-s21-assignment-5-Bindukattabattula/blob/main/animals.html
-           https://github.com/44-563-WebApps-F21/webapps-s21-assignment-5-Bindukattabattula/blob/main/bootstart.html
-           
+Hosted AT  https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-Bindukattabattula/plane.html
+Hosted AT  https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-Bindukattabattula/bootstrat.html
+Hosted AT  https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-Bindukattabattula/train.html
+Hosted AT  https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-Bindukattabattula/animals.html
